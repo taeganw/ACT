@@ -1,0 +1,810 @@
+{
+  "name": "cheats",
+  "type": "Folder",
+  "children": [
+    {
+      "name": "README.md",
+      "type": "url",
+      "url_md": "/arsenal/arsenal/data/cheats/README.md"
+    },
+    {
+      "name": "README.rst",
+      "type": "url",
+      "url_md": "/arsenal/arsenal/data/cheats/README.rst"
+    },
+    {
+      "name": "arsenal.md",
+      "type": "url",
+      "url_md": "/arsenal/arsenal/data/cheats/arsenal.md"
+    },
+    {
+      "name": "Active_directory",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "SCShell.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/SCShell.md"
+        },
+        {
+          "name": "bloodhound.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/bloodhound.md"
+        },
+        {
+          "name": "certipy.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/certipy.md"
+        },
+        {
+          "name": "cme.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/cme.md"
+        },
+        {
+          "name": "coercer.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/coercer.md"
+        },
+        {
+          "name": "kerberos.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/kerberos.md"
+        },
+        {
+          "name": "laps.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/laps.md"
+        },
+        {
+          "name": "lsassy.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/lsassy.md"
+        },
+        {
+          "name": "machine_account_coerce_abuse.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/machine_account_coerce_abuse.md"
+        },
+        {
+          "name": "mitm6.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/mitm6.md"
+        },
+        {
+          "name": "powerview.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/powerview.md"
+        },
+        {
+          "name": "responder.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/responder.md"
+        },
+        {
+          "name": "rpcclient.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/rpcclient.md"
+        },
+        {
+          "name": "rubeus.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Active_directory/rubeus.md"
+        },
+        {
+          "name": "Impacket",
+          "type": "Folder",
+          "children": [
+            {
+              "name": "impacket-execute.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Active_directory/Impacket/impacket-execute.md"
+            },
+            {
+              "name": "impacket-kerberos.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Active_directory/Impacket/impacket-kerberos.md"
+            },
+            {
+              "name": "impacket-secrets.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Active_directory/Impacket/impacket-secrets.md"
+            },
+            {
+              "name": "impacket-servertool-mitm.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Active_directory/Impacket/impacket-servertool-mitm.md"
+            },
+            {
+              "name": "impacket-smb_msrpc.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Active_directory/Impacket/impacket-smb_msrpc.md"
+            },
+            {
+              "name": "impacket.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Active_directory/Impacket/impacket.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Archive",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "7z.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Archive/7z.md"
+        },
+        {
+          "name": "binwalk.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Archive/binwalk.md"
+        },
+        {
+          "name": "gzip.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Archive/gzip.md"
+        },
+        {
+          "name": "rar.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Archive/rar.md"
+        },
+        {
+          "name": "tar.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Archive/tar.md"
+        },
+        {
+          "name": "unblob.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Archive/unblob.md"
+        },
+        {
+          "name": "zip.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Archive/zip.md"
+        }
+      ]
+    },
+    {
+      "name": "BruteForce",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "hydra.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/BruteForce/hydra.md"
+        },
+        {
+          "name": "wordlist",
+          "type": "Folder",
+          "children": [
+            {
+              "name": "cewl.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/BruteForce/wordlist/cewl.md"
+            },
+            {
+              "name": "crunch.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/BruteForce/wordlist/crunch.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cloud",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "aws.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Cloud/aws.md"
+        }
+      ]
+    },
+    {
+      "name": "Crypto",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "gpg.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Crypto/gpg.md"
+        }
+      ]
+    },
+    {
+      "name": "Deserialization",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "ysoserial.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Deserialization/ysoserial.md"
+        },
+        {
+          "name": "ysoserial.net.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Deserialization/ysoserial.net.md"
+        }
+      ]
+    },
+    {
+      "name": "Files",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "Download",
+          "type": "Folder",
+          "children": [
+            {
+              "name": "bitsadmin.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Files/Download/bitsadmin.md"
+            },
+            {
+              "name": "certutil.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Files/Download/certutil.md"
+            },
+            {
+              "name": "powershell.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Files/Download/powershell.md"
+            }
+          ]
+        },
+        {
+          "name": "Server",
+          "type": "Folder",
+          "children": [
+            {
+              "name": "server.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Files/Server/server.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flashrom",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "flashrom.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Flashrom/flashrom.md"
+        }
+      ]
+    },
+    {
+      "name": "Install",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "brew.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Install/brew.md"
+        },
+        {
+          "name": "yum.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Install/yum.md"
+        }
+      ]
+    },
+    {
+      "name": "Language",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "c.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Language/c.md"
+        },
+        {
+          "name": "dotnet.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Language/dotnet.md"
+        },
+        {
+          "name": "javascript.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Language/javascript.md"
+        },
+        {
+          "name": "nodejs.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Language/nodejs.md"
+        },
+        {
+          "name": "php.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Language/php.md"
+        },
+        {
+          "name": "Java",
+          "type": "Folder",
+          "children": [
+            {
+              "name": "java.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Language/Java/java.md"
+            },
+            {
+              "name": "keytool.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Language/Java/keytool.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linux",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "crontab.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Linux/crontab.md"
+        },
+        {
+          "name": "grep.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Linux/grep.md"
+        },
+        {
+          "name": "i686-w64-mingw32-gcc.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Linux/i686-w64-mingw32-gcc.md"
+        },
+        {
+          "name": "linux.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Linux/linux.md"
+        },
+        {
+          "name": "misc.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Linux/misc.md"
+        },
+        {
+          "name": "sed.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Linux/sed.md"
+        },
+        {
+          "name": "veracrypt.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Linux/veracrypt.md"
+        }
+      ]
+    },
+    {
+      "name": "Metasploit",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "msf.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Metasploit/msf.md"
+        },
+        {
+          "name": "searchsploit.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Metasploit/searchsploit.md"
+        }
+      ]
+    },
+    {
+      "name": "Mobile",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "Android",
+          "type": "Folder",
+          "children": [
+            {
+              "name": "android.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Mobile/Android/android.md"
+            },
+            {
+              "name": "apktool.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Mobile/Android/apktool.md"
+            },
+            {
+              "name": "jadx.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Mobile/Android/jadx.md"
+            },
+            {
+              "name": "objection.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Mobile/Android/objection.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Network",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "chisel.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Network/chisel.md"
+        },
+        {
+          "name": "network.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Network/network.md"
+        },
+        {
+          "name": "socat.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Network/socat.md"
+        }
+      ]
+    },
+    {
+      "name": "Password cracking",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "crackfiles.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Password cracking/crackfiles.md"
+        },
+        {
+          "name": "hashcat.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Password cracking/hashcat.md"
+        },
+        {
+          "name": "john.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Password cracking/john.md"
+        }
+      ]
+    },
+    {
+      "name": "Password extraction",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "LAPS.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Password extraction/LAPS.md"
+        },
+        {
+          "name": "lazagne.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Password extraction/lazagne.md"
+        },
+        {
+          "name": "mimikatz.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Password extraction/mimikatz.md"
+        },
+        {
+          "name": "procdump.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Password extraction/procdump.md"
+        }
+      ]
+    },
+    {
+      "name": "Protocol",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "dns.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/dns.md"
+        },
+        {
+          "name": "ftp.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/ftp.md"
+        },
+        {
+          "name": "ldap.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/ldap.md"
+        },
+        {
+          "name": "mssql.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/mssql.md"
+        },
+        {
+          "name": "mysql.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/mysql.md"
+        },
+        {
+          "name": "netbios.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/netbios.md"
+        },
+        {
+          "name": "nfs.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/nfs.md"
+        },
+        {
+          "name": "pop.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/pop.md"
+        },
+        {
+          "name": "postgres.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/postgres.md"
+        },
+        {
+          "name": "rdp.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/rdp.md"
+        },
+        {
+          "name": "smtp.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/smtp.md"
+        },
+        {
+          "name": "snmp.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/snmp.md"
+        },
+        {
+          "name": "ssh.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/ssh.md"
+        },
+        {
+          "name": "telnet.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/telnet.md"
+        },
+        {
+          "name": "vnc.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/vnc.md"
+        },
+        {
+          "name": "winrm.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/winrm.md"
+        },
+        {
+          "name": "x11.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Protocol/x11.md"
+        },
+        {
+          "name": "smb",
+          "type": "Folder",
+          "children": [
+            {
+              "name": "enum4linux.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Protocol/smb/enum4linux.md"
+            },
+            {
+              "name": "smb.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Protocol/smb/smb.md"
+            },
+            {
+              "name": "smbmap.md",
+              "type": "url",
+              "url_md": "/arsenal/arsenal/data/cheats/Protocol/smb/smbmap.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pwn",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "bof.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Pwn/bof.md"
+        }
+      ]
+    },
+    {
+      "name": "Race Condition",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "racecondition.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Race Condition/racecondition.md"
+        }
+      ]
+    },
+    {
+      "name": "ReverseShell",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "msfvenom.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/ReverseShell/msfvenom.md"
+        },
+        {
+          "name": "nc.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/ReverseShell/nc.md"
+        },
+        {
+          "name": "reverse_shell.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/ReverseShell/reverse_shell.md"
+        }
+      ]
+    },
+    {
+      "name": "SQL Injection",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "sqlmap.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/SQL Injection/sqlmap.md"
+        }
+      ]
+    },
+    {
+      "name": "Scan",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "cve-bin-tool.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Scan/cve-bin-tool.md"
+        },
+        {
+          "name": "eyewitness.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Scan/eyewitness.md"
+        },
+        {
+          "name": "gowitness.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Scan/gowitness.md"
+        },
+        {
+          "name": "nmap.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Scan/nmap.md"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "service.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Services/service.md"
+        },
+        {
+          "name": "systemctl.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Services/systemctl.md"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "docker.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Tools/docker.md"
+        },
+        {
+          "name": "git.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Tools/git.md"
+        },
+        {
+          "name": "kubernetes.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Tools/kubernetes.md"
+        }
+      ]
+    },
+    {
+      "name": "Web",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "drupwn.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Web/drupwn.md"
+        },
+        {
+          "name": "fuzzer.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Web/fuzzer.md"
+        },
+        {
+          "name": "jwttool.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Web/jwttool.md"
+        },
+        {
+          "name": "openssl.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Web/openssl.md"
+        },
+        {
+          "name": "tomcat.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Web/tomcat.md"
+        },
+        {
+          "name": "web.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Web/web.md"
+        },
+        {
+          "name": "wpscan.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Web/wpscan.md"
+        }
+      ]
+    },
+    {
+      "name": "Wifi",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "wifi.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Wifi/wifi.md"
+        }
+      ]
+    },
+    {
+      "name": "Windows",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "powershell.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Windows/powershell.md"
+        },
+        {
+          "name": "whitelisting.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Windows/whitelisting.md"
+        },
+        {
+          "name": "windows.md",
+          "type": "url",
+          "url_md": "/arsenal/arsenal/data/cheats/Windows/windows.md"
+        }
+      ]
+    }
+  ]
+}

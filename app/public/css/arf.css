@@ -1,0 +1,256 @@
+body {
+  background-color: #ffffff;
+  font-size: 14px;
+  font-family: "Helvetica Neue", Helvetica;
+}
+
+#body {
+  margin: 0 auto;
+  position: relative;
+}
+
+#header {
+  font-size: 40px;
+  font-weight: bold;
+  top: 20px;
+  text-align: center;
+}
+
+.legend {
+  position: absolute;
+  top: 0px;
+  right: 0;
+  width: 330px;
+  font-size: 11px;
+  color: #000;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 12px;
+  fill: rgb(0, 0, 0);
+}
+
+
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1px;
+}
+
+#title_section{
+  font-size: 40px;
+  font-weight: bold;
+  top: 20px;
+  text-align: center;
+}
+
+.container {
+  /* white-space: nowrap; Prevent text from wrapping */
+}
+
+.left-div {
+  overflow: auto; /* Add scrollbar when content overflows */
+  width: 100%; /* Make both divs occupy 50% of the container width */
+  height: 100%;
+  display: inline-block; /* Make them display inline */
+  float: left; /* Float them to the left */
+  box-sizing: border-box; /* Include padding and border in the width */
+  padding: 10px; /* Add padding if needed */
+}
+
+.right-div {
+  overflow: hidden; /* Add scrollbar when content overflows */
+  width: 50%; /* Make both divs occupy 50% of the container width */
+  height: 100%;
+  display: inline-block; /* Make them display inline */
+  float: left; /* Float them to the left */
+  box-sizing: border-box; /* Include padding and border in the width */
+  padding: 10px; /* Add padding if needed */
+  line-height: 1.6; /* Increase line height for better readability */
+}
+
+.reportContainer{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.reportRight-div {
+  overflow: hidden; /* Add scrollbar when content overflows */
+  height: 100%;
+  display: inline-block; /* Make them display inline */
+  float: left; /* Float them to the left */
+  box-sizing: border-box; /* Include padding and border in the width */
+  padding: 10px; /* Add padding if needed */
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  line-height: 1.6; /* Increase line height for better readability */
+}
+
+.report-content {
+  width: 100%;
+  height: calc(100% - 40px); /* Adjust the height based on the toolbar height */
+  border: none;
+}
+
+.report-toolbar {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.reportLeft-div {
+  overflow: auto; /* Add scrollbar when content overflows */
+  height: 100%;
+  display: inline-block; /* Make them display inline */
+  float: left; /* Float them to the left */
+  box-sizing: border-box; /* Include padding and border in the width */
+  padding: 10px; /* Add padding if needed */
+}
+
+
+
+/* Style for the content div */
+#nodeInfo {
+  padding: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  display: none;
+}
+
+/* Style for headings (h1 to h6) */
+#nodeInfo h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  display: inline;
+}
+
+#nodeInfo h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  display: inline;
+}
+
+#nodeInfo h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  display: inline;
+}
+
+#nodeInfo h4 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  display: inline;
+}
+
+#nodeInfo h5 {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  display: inline;
+}
+
+
+#nodeInfo h6 {
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0 0 10px;
+  display: inline;
+}
+
+/* Style for external links */
+#nodeInfo a {
+  color: #0074cc;
+  text-decoration: none;
+}
+
+#nodeInfo a:hover {
+  text-decoration: underline;
+}
+
+/* Style for the "detection_techniques" div */
+#detection_technique {
+  padding: 20px;
+  background-color: #c5c5c5;; /* Change the background color to a different color */
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a box shadow */
+  overflow: hidden;
+}
+
+
+/* Style for <code> elements */
+code {
+  font-family: 'Courier New', monospace; /* Use a monospaced font */
+  background-color: #f4f4f4; /* Light gray background color */
+  color: #333; /* Text color */
+  padding: 2px 4px; /* Add padding for spacing */
+  border: 1px solid #ccc; /* Add a border */
+  border-radius: 4px; /* Rounded corners */
+  display: inline-block; /* Make it inline with block-level properties */
+}
+
+/* Style for a new-section divider */
+.hr-new-section {
+  border: none;
+  background-color: #0074cc; /* Use a distinct color for new sections */
+  height: 2px; /* Adjust the height for a more prominent line */
+  margin: 20px 0; /* Add more spacing above and below the line */
+}
+
+
+/* Style for a soft same-section divider */
+.hr-soft {
+  border: none;
+  background-color: #ccc; /* Use a light gray color */
+  height: 1px; /* Adjust the height as needed */
+  margin: 10px 0; /* Add spacing above and below the line */
+}
+/* Style for a soft same-section divider */
+.hr-soft-dark {
+  border: none;
+  background-color: #777; /* Use a light gray color */
+  height: 1px; /* Adjust the height as needed */
+  margin: 10px 0; /* Add spacing above and below the line */
+}
+
+/* Button style */
+.addToReportButton {
+  float: inline-end;
+  display: block;
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: #0074cc;
+  color: #fff !important;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  transition: background-color 0.3s; /* Add a smooth transition effect */
+}
+
+/* Hover effect */
+.addToReportButton:hover {
+  cursor: pointer;
+  background-color: #0059a1; /* Darker color on hover */
+}
