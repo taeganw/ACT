@@ -57,7 +57,18 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
  The ACT Framework is built off of the <a href="https://github.com/lockfale/OSINT-Framework">OSINT Framework</a> and <a href="https://github.com/Orange-Cyberdefense/arsenal">Orange-Cyberdefense Arsenal</a>. The goal of this framework is to have a central location to share CTF resources to help within CTF competitions. More updates to come!
-
+  <p align="center">
+ <img src="app/public/sshShell.png" alt="Picture of the ACT arsenal shell" width="800">
+    </p>
+   <p align="left">
+   The started docker container allows SSH connections to the node user. Once connected, a Tmux session starts with Arsenal ready to search for your next command.
+   </p>
+  <p align="center">
+  <img src="app/public/website.png" alt="Picture of the ACT Framework Website" width="800">
+    </p>
+   <p align="left">
+   The website allows for easy navigation and reading of the Markdown files for all of the tools listed in Arsenal's Cheats folder
+  </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
