@@ -23,7 +23,7 @@
 <div align="center">
  <a href="https://github.com/taeganw/ACT">
    <img src="app/public/favicon.ico" alt="Logo" width="80" height="80">
- </a><h3 align="center">ACT</h3>
+ </a><h3 align="center">ACT Framework</h3>
 
   <p align="center">
   The ACT Framework is built off of the <a href="https://github.com/lockfale/OSINT-Framework">OSINT Framework</a> and <a href="https://github.com/Orange-Cyberdefense/arsenal">Orange-Cyberdefense Arsenal</a>. The goal of this framework is to have a central location to share CTF resources to help within CTF competitions.
