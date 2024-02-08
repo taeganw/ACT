@@ -148,15 +148,15 @@ Project Link: [https://github.com/taeganw/ACT](https://github.com/taeganw/ACT)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/taeganw/WYSKA-Framework.svg?style=for-the-badge
-[contributors-url]: https://github.com/taeganw/WYSKA-Framework/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/taeganw/WYSKA-Framework.svg?style=for-the-badge
-[forks-url]: https://github.com/taeganw/WYSKA-Framework/network/members
-[stars-shield]: https://img.shields.io/github/stars/taeganw/WYSKA-Framework.svg?style=for-the-badge
-[stars-url]: https://github.com/taeganw/WYSKA-Framework/stargazers
-[issues-shield]: https://img.shields.io/github/issues/taeganw/WYSKA-Framework.svg?style=for-the-badge
-[issues-url]: https://github.com/taeganw/WYSKA-Framework/issues
-[license-shield]: https://img.shields.io/github/license/taeganw/WYSKA-Framework.svg?style=for-the-badge
-[license-url]: https://github.com/taeganw/WYSKA-Framework/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/taeganw/ACT.svg?style=for-the-badge
+[contributors-url]: https://github.com/taeganw/ACT/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/taeganw/ACT.svg?style=for-the-badge
+[forks-url]: https://github.com/taeganw/ACT/network/members
+[stars-shield]: https://img.shields.io/github/stars/taeganw/ACT.svg?style=for-the-badge
+[stars-url]: https://github.com/taeganw/ACT/stargazers
+[issues-shield]: https://img.shields.io/github/issues/taeganw/ACT.svg?style=for-the-badge
+[issues-url]: https://github.com/taeganw/ACT/issues
+[license-shield]: https://img.shields.io/github/license/taeganw/ACT.svg?style=for-the-badge
+[license-url]: https://github.com/taeganw/ACT/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/taegan-w-b17b7a91
