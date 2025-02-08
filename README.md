@@ -22,7 +22,7 @@
 <br />
 <div align="center">
  <a href="https://github.com/taeganw/ACT">
-   <img src="public/favicon.ico" alt="Logo" width="80" height="80">
+   <img src="app/public/favicon.ico" alt="Logo" width="80" height="80">
  </a><h3 align="center">WYSKA Framework</h3>
 
   <p align="center">
@@ -147,5 +147,5 @@ Project Link: [https://github.com/taeganw/ACT](https://github.com/taeganw/ACT)
 [issues-url]: https://github.com/taeganw/WYSKA-Framework/issues
 [license-shield]: https://img.shields.io/github/license/taeganw/WYSKA-Framework.svg?style=for-the-badge
 [license-url]: https://github.com/taeganw/WYSKA-Framework/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/taegan-w-b17b7a91
