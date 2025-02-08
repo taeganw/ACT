@@ -56,6 +56,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+ <p align="center">
+  <img src="app/public/website.png" alt="ACT Website" width="1000" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
+</p>
+
+<p align="center">
+  <img src="app/public/sshShell.png" alt="ACT Shell" width="1000" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);">
+</p>
+</div>
  The ACT Framework is built off of the <a href="https://github.com/lockfale/OSINT-Framework">OSINT Framework</a> and <a href="https://github.com/Orange-Cyberdefense/arsenal">Orange-Cyberdefense Arsenal</a>. The goal of this framework is to have a central location to share CTF resources to help within CTF competitions. More updates to come!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -147,5 +155,5 @@ Project Link: [https://github.com/taeganw/ACT](https://github.com/taeganw/ACT)
 [issues-url]: https://github.com/taeganw/WYSKA-Framework/issues
 [license-shield]: https://img.shields.io/github/license/taeganw/WYSKA-Framework.svg?style=for-the-badge
 [license-url]: https://github.com/taeganw/WYSKA-Framework/blob/master/LICENSE.txt
-[linkedin-shield]: https://.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/taegan-w-b17b7a91
